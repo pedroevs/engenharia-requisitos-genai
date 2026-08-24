@@ -17,6 +17,8 @@ engenharia-requisitos-genai/
 │   ├── requisitos-nao-funcionais.md
 │   ├── regras-de-negocio.md
 │   └── duvidas-e-lacunas.md
+│   ├── gestao-riscos.md [mod 9]
+│   ├── plano-comunicacao.md [mod 9]
 └── especificacao/
     ├── historias-usuario.md
     ├── casos-de-uso.md
@@ -31,7 +33,8 @@ engenharia-requisitos-genai/
 - Histórias de Usuário (11 histórias)
 - Casos de Uso (5 casos com fluxos detalhados)
 - Critérios de Aceitação (para cada história)
-
+- Gestão de Riscos do Projeto (10 riscos identificados com estratégias de resposta)
+- Plano de Comunicação e Gestão de Incidentes
 ## Ferramentas Utilizadas
 
 - Visual Studio Code
